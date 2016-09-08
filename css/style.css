@@ -1,0 +1,62 @@
+/* FileName: style.css
+ * Purpose: Styling for portfolio page
+ * Revision History
+ * 		Steven Bulgin, 2016.09.07: Created
+ */
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	font-family: Arial, "Arial Black", sans-serif;
+	background-color: #292929;
+	color: white;
+}
+
+#wrap {
+	width: 960px;
+	margin:  auto;
+	text-align: center;
+}
+
+#navbar {
+	width: 100%;
+	margin:  auto;
+	text-align: center;
+	bottom: 0;
+	position: fixed;
+	background-color: #292929;
+	z-index:1;
+}
+
+#navbar ul {
+	list-style: none;
+}
+
+#navbar li {
+	display: inline;
+}
+
+#navbar a {
+	text-decoration: none;
+	color: white;
+}
+
+#navbar li:before {
+	content: " / ";
+}
+
+#navbar li:first-child:before {
+	content: none;
+}
+
+/*** Courses Page ***/
+
+table { 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}
+
