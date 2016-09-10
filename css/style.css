@@ -15,6 +15,10 @@ body {
 	color: white;
 }
 
+img {
+	margin: 0px 30px 0px 30px;
+}
+
 #wrap {
 	width: 960px;
 	margin:  auto;
