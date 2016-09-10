@@ -25,6 +25,10 @@ img {
 	text-align: center;
 }
 
+#wrap p:last-child {
+	margin-bottom: 60px;
+}
+
 #navbar {
 	width: 100%;
 	margin:  auto;
