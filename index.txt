@@ -1,0 +1,28 @@
+<!--
+  FileName: index.html
+  Purpose: Index for portfolio page for Github
+  Revision History
+   		Steven Bulgin, 2016.09.07: Created
+   		Steven Bulgin, 2016.10.29: Removeved for now due to lack of content
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div id="wrap">
+		<h1>Placeholder</h1>
+	</div>
+	<div id="navbar">
+		<ul>
+			<!-- <li><a href="index.html">Home</a></li> -->
+			<li><a href="about.html">About</a></li>
+			<li><a href="courses.html">Courses</a></li>
+			<li><a href="projects.html">Projects</a></li>
+		</ul>
+	</div>
+</body>
+</html>
