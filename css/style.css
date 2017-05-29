@@ -65,8 +65,15 @@ img {
 /*** Courses Page ***/
 
 table { 
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 60px;
 }
 
+/* Clickable links */
+
+.link-style {
+	color: white;
+	text-decoration: none;
+	border-bottom: 2px solid blue;
+}
