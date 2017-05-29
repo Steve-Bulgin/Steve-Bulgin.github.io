@@ -20,6 +20,7 @@ img {
 }
 
 #wrap {
+	padding-top: 50px;
 	width: 960px;
 	margin:  auto;
 	text-align: center;
@@ -33,13 +34,14 @@ img {
 	width: 100%;
 	margin:  auto;
 	text-align: center;
-	bottom: 0;
+	top: 0;
 	position: fixed;
 	background-color: #292929;
 	z-index:1;
 }
 
 #navbar ul {
+	padding: 0px;
 	list-style: none;
 }
 
